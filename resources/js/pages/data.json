@@ -1,0 +1,177 @@
+[
+    {
+      "id": "m5gr84i9",
+      "amount": 10,
+      "status": "Comprado",
+      "type": "alimentício",
+      "name": "arroz"
+    },
+    {
+      "id": "3u1reuv4",
+      "amount": 2,
+      "status": "comprando",
+      "type": "limpeza",
+      "name": "detergente"
+    },
+    {
+      "id": "d9f2g4h5",
+      "amount": 5,
+      "status": "Comprado",
+      "type": "higiene pessoal",
+      "name": "shampoo"
+    },
+    {
+      "id": "j7k8l9m0",
+      "amount": 3,
+      "status": "comprando",
+      "type": "beleza",
+      "name": "batom"
+    },
+    {
+      "id": "n1b2v3c4",
+      "amount": 1,
+      "status": "Comprado",
+      "type": "utensílios",
+      "name": "garfo"
+    },
+    {
+      "id": "x5z6y7w8",
+      "amount": 4,
+      "status": "comprando",
+      "type": "alimentício",
+      "name": "feijão"
+    },
+    {
+      "id": "q1w2e3r4",
+      "amount": 2,
+      "status": "Comprado",
+      "type": "limpeza",
+      "name": "sabão em pó"
+    },
+    {
+      "id": "t5y6u7i8",
+      "amount": 6,
+      "status": "comprando",
+      "type": "higiene pessoal",
+      "name": "escova de dentes"
+    },
+    {
+      "id": "o9p0a1s2",
+      "amount": 1,
+      "status": "Comprado",
+      "type": "beleza",
+      "name": "esmalte"
+    },
+    {
+      "id": "d3f4g5h6",
+      "amount": 8,
+      "status": "comprando",
+      "type": "utensílios",
+      "name": "prato"
+    },
+    {
+      "id": "j7k8l9m1",
+      "amount": 3,
+      "status": "Comprado",
+      "type": "alimentício",
+      "name": "macarrão"
+    },
+    {
+      "id": "n2b3v4c5",
+      "amount": 2,
+      "status": "comprando",
+      "type": "limpeza",
+      "name": "desinfetante"
+    },
+    {
+      "id": "x6z7y8w9",
+      "amount": 1,
+      "status": "Comprado",
+      "type": "higiene pessoal",
+      "name": "pasta de dente"
+    },
+    {
+      "id": "q2w3e4r5",
+      "amount": 4,
+      "status": "comprando",
+      "type": "beleza",
+      "name": "pincel de maquiagem"
+    },
+    {
+      "id": "t6y7u8i9",
+      "amount": 5,
+      "status": "Comprado",
+      "type": "utensílios",
+      "name": "faca"
+    },
+    {
+      "id": "o0p1a2s3",
+      "amount": 2,
+      "status": "comprando",
+      "type": "alimentício",
+      "name": "óleo"
+    },
+    {
+      "id": "d4f5g6h7",
+      "amount": 3,
+      "status": "Comprado",
+      "type": "limpeza",
+      "name": "amaciante"
+    },
+    {
+      "id": "j8k9l0m1",
+      "amount": 1,
+      "status": "comprando",
+      "type": "higiene pessoal",
+      "name": "desodorante"
+    },
+    {
+      "id": "n3b4v5c6",
+      "amount": 2,
+      "status": "Comprado",
+      "type": "beleza",
+      "name": "base"
+    },
+    {
+      "id": "x7z8y9w0",
+      "amount": 4,
+      "status": "comprando",
+      "type": "utensílios",
+      "name": "colher"
+    },
+    {
+      "id": "q3w4e5r6",
+      "amount": 1,
+      "status": "Comprado",
+      "type": "alimentício",
+      "name": "açúcar"
+    },
+    {
+      "id": "t7y8u9i0",
+      "amount": 3,
+      "status": "comprando",
+      "type": "limpeza",
+      "name": "sabonete"
+    },
+    {
+      "id": "o1p2a3s4",
+      "amount": 2,
+      "status": "Comprado",
+      "type": "higiene pessoal",
+      "name": "fio dental"
+    },
+    {
+      "id": "d5f6g7h8",
+      "amount": 1,
+      "status": "comprando",
+      "type": "beleza",
+      "name": "rimel"
+    },
+    {
+      "id": "j9k0l1m2",
+      "amount": 6,
+      "status": "Comprado",
+      "type": "utensílios",
+      "name": "copo"
+    }
+  ]
